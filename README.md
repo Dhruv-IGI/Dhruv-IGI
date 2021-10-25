@@ -11,10 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/dhruv-igi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dhruv-igi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/dhruvvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dhruvvarshney" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_dhruv.igi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_dhruv.igi_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/dhruvvarshney2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/dhruvvarshney2" height="30" width="40" /></a>
+<a href="https://codepen.io/dhruv-igi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhruv-igi" height="30" width="40" /></a>
+<a href="https://twitter.com/@dhruvva69703349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dhruvva69703349" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruvvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvvarshney" height="30" width="40" /></a>
+<a href="https://instagram.com/_dhruv.igi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dhruv.igi_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhruvvarshney2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruvvarshney2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
