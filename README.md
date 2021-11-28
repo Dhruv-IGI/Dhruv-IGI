@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **flutter,django**
+- 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **web dev**
 
