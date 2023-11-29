@@ -1,4 +1,8 @@
-![Dhruv varshney](https://user-images.githubusercontent.com/83370198/143728962-651ff6ea-d2af-47df-848f-7a2a822d890e.gif)
+<p align="center">
+  <img src="https://github.com/Dhruv-IGI/Dhruv-IGI/assets/83370198/c8e45243-9fbb-46f0-abd1-a2494cbe977e" alt="Dhruv Varshney"/>
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Dhruv varshney</h1>
 <h3 align="center">Pursuing career in Computer Science</h3>
