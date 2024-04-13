@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dhruvvarshney26@gmail.com**
 
-- 😎 CHeck out my portfolio **dhruvigi.web.app** 
+- 😎 CHeck out my portfolio **<a href="https://dhruvigi.web.app/" target="blank">dhruvigi.web.app</a>** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
